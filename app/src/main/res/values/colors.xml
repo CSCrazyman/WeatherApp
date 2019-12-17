@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#000000</color>
+    <color name="colorPrimaryDark">#000000</color>
+    <color name="colorAccent">#111111</color>
+    <color name="colorSearchInputBox">#1E1C1E</color>
+    <color name="colorSearchHint">#908F90</color>
+    <color name="colorItemPurple">#BB86FC</color>
+    <color name="maxTemperature">#F09914</color>
+    <color name="minTemperature">#BB86FC</color>
+</resources>

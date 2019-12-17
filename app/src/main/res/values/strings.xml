@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">WeatherApp</string>
+    <string name="search_hint">Search...</string>
+    <string name="app_pending">Fetching Weather...</string>
+    <string name="no_result">No results</string>
+    <string name="network_error">Oops! Check Network and Try Again</string>
+    <string name="humidity">Humidity</string>
+    <string name="wind_speed">Wind Speed</string>
+    <string name="visibility">Visibility</string>
+    <string name="pressure">Pressure</string>
+    <string name="precipitation">Precipitation</string>
+    <string name="temperature">Temperature</string>
+    <string name="cloud_cover">Cloud Cover</string>
+    <string name="ozone">Ozone</string>
+    <string name="today">TODAY</string>
+    <string name="weekly">WEEKLY</string>
+    <string name="photos">PHOTOS</string>
+    <string name="search_result_text">Search Result</string>
+</resources>
